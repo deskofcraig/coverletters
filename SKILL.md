@@ -15,3 +15,6 @@
 - No warm-up intros and no summary endings. Start at the point, stop at the last one.
 
 - Vary sentence length. If three sentences in a row have the same shape, break one.
+
+
+Run `git clone https://github.com/conorbronsdon/avoid-ai-writing ~/.claude/skills/avoid-ai-writing`
