@@ -1,0 +1,17 @@
+For the People and Culture team at Cancer Council Queensland,
+
+I'm a senior product designer with over ten years across enterprise SaaS, consumer products and client consulting, and the common thread through all of it is research-led design: understanding how people actually behave before deciding what to build or fix. At Octopus Deploy I ran continuous discovery myself, organising and facilitating customer interviews and workshops rather than waiting for research to be handed to me, and used that to redevelop a self-service purchasing and subscription flow that replaced a manual, sales-rep-dependent process with something customers could complete on their own. I paired that qualitative work with quantitative tools like Amplitude and Hotjar to track how people were actually using the product, and used that combined evidence to build pitches for interface and experience improvements.
+
+My brother was diagnosed with cancer at 12 and went through chemotherapy and radiation. I was a youth leader with Seize the Day, the youth group run through what was then the Queensland Cancer Fund, before the program ceased. That period shaped how I think about support and how much it matters when it's designed around the person going through it, not around the organisation delivering it. Coming back to work that helps people affected by cancer, in a role built on research and design rather than fundraising asks alone, is something I want to do, not just something I'm applying for.
+
+Service design and blueprinting is where I'd point you first for this role. At Cognizant, I worked on a Queensland Police portal built around vehicle and person-of-interest recognition, mapping the service end to end across the people, systems and handoffs involved, not just the screens an operator would see. Alongside that I've built customer journey maps at CoreLogic for the shop front and billing portal, and at Cognizant I led the redesign of the 10,000 Steps mobile app for Central Queensland University, which meant mapping how people moved between web and app rather than assuming one replaced the other.
+
+I've also applied behavioural thinking directly to lifecycle design, looking at discovery, onboarding, first use, return visits and offboarding as distinct moments with different behavioural pressures, and using nudge techniques to improve visibility and completion at each stage. That's not a separate discipline from the discovery work I do, it's the same research feeding into how a journey gets structured. Once I have that evidence, I take it into prototypes, usually in Figma, at whatever fidelity actually helps the next conversation, whether that's a rough concept for internal testing or something high-fidelity enough for a stakeholder to sign off on.
+
+Facilitation is where a lot of this comes together for me. I've run co-design workshops, discovery sessions and stakeholder alignment meetings across every role I've had, including writing the client-facing documentation and findings that came out of them at Cognizant. I'm comfortable being the person in the room turning a group's scattered input into something the team can actually act on.
+
+You can see examples of this work at deskofcraig.com. I'd welcome the chance to talk about how this experience applies to the customer experience work Cancer Council Queensland is building.
+
+I look forward to hearing from you,
+
+Craig Johnson
