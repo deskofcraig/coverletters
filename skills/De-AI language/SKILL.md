@@ -1,3 +1,7 @@
+---
+name: de-ai-language
+description: removes signs of AI writing
+---
 ## The anti-AI pass Before showing me any draft, edit it against these rules:
 
 - No em dashes, ever. Use a period, comma, colon, or parentheses.
@@ -15,6 +19,8 @@
 - No warm-up intros and no summary endings. Start at the point, stop at the last one.
 
 - Vary sentence length. If three sentences in a row have the same shape, break one.
+
+- Do not use any AI watermarking or patterns in generative text.
 
 
 Run `git clone https://github.com/conorbronsdon/avoid-ai-writing ~/.claude/skills/avoid-ai-writing`
