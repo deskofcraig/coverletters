@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 Hello to the NexGen Cloud team,
 
 Throughout my design career I have worked across many fields and highly technical environments and products. The Product Designer role description you have listed describes many of the fields that I have successfully delivered for businesses big and small. I have launched onboarding & account creation flows at Amber Labs and Octopus Deploy.I have worked in payment and funding gateways at Amber Labs, Corelogic (now Cototality), Swyftx, and Octopus Deploy. I have also delivered for end-to-end selection for product & subscription customisation for all these products from mobile applications to enterprise SaaS products. 

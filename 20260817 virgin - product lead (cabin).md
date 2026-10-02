@@ -1,4 +1,9 @@
-ello to the Virgin Australia team. 
+---
+result: 
+feedback:
+---
+
+Hello to the Virgin Australia team. 
 
 I am excited to be able to apply for a role with this great business and eager to help Virgin and their customers have the best travel experiences possible. This role sounds like a great opportunity to make sure your customers can get the most out of their time at Virgin terminals,  have experiences that make them continue as customers and refer future customers toward Virgin Australia. 
 

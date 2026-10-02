@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 For the IAG Defence & National Security team,
 
 I'm a Brisbane-based senior product designer with 10+ years across enterprise SaaS, consumer products, and physical builds, and I want to put my name forward ahead of the digital experience and platform work you're building toward. Given the spread of disciplines in this EOI, I think I'm a fit across a few of them rather than just one: UX/UI Design, Interaction Design, Service Design, Content Strategy, and the DXP Strategist role, which lines up closely with process work I've built myself outside my day job.
@@ -14,3 +19,4 @@ I'm an Australian citizen, based in Brisbane, already set up to work remotely, a
 
 I look forward to hearing from you,
 Craig Johnson
+

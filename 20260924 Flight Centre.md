@@ -1,3 +1,8 @@
+---
+result: 1 interview
+feedback:
+---
+
 Hello to the Flight Centre team 👋
 
 I am excited to apply for your UX/Designer role focusing on Design System Operations. Design Systems and Component Libraries are a passionate field of design and experience for me.  A thoughtful and well-managed design system can create and continue to create consistent, relevant, trustworthy, and iconic experiences for customers, users , and visitors. It does not end there, as engineers and designers needing access to the design system when creating, designing and building interfaces have the exact building to maintain the high level of quality and experience when delivering completed work.
@@ -20,3 +25,5 @@ I would love to talk more about this role and what my experience and knowledge c
 
 I hope to hear from you soon,
 Craig Johnson
+
+

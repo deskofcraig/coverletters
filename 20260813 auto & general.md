@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 For the Auto & General team,
 I'm applying for the Senior UX/UI Designer role at Auto & General. 
 Across ten-plus years I've owned design end to end, discovery through delivery, on enterprise SaaS and consumer products, and built or maintained mutliple design systems along the way. I practice design through a continuous discovery framework rather than waiting for product reviews and feedback to trickle through communication lanes. organising and facilitating the customer interviews and workshops myself, and I hold every handover to a proper standard before engineering sees it, all states, all flows, WCAG AA accessibility, not just "does it look finished." I've also used AI deliberately and with a clear boundary in my process, for clustering insights out of interviews, early low-fidelity exploration, and summarising workshops, but never for owning the actual understanding of the problem. That stays with me and the team.
@@ -6,3 +11,4 @@ Before I went to study and work in design, I spent 11 years as an insurance brok
 On mentoring, I've guided and reviewed the work of both junior and more senior designers, and spent time explaining complex design concepts and ways of working to designers earlier in their careers. Alongside delivering internal training at Cognizant and being recognised at CoreLogic for educating other departments on design tools, it's something I genuinely enjoy doing well, not just a line item.
 My portfolio is at deskofcraig.com if you'd like to see the craft behind all of this. I'd welcome the chance to talk through how the broker years and the design years actually sit together, because I think that combination is fairly unusual and directly useful for what you're building at Auto & General.
 I look forward to hearing from you, Craig Johnson
+

@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 Hello Macquarie Hiring team,
 
 I'm applying for the Product Designer role in Group Technology Services Strategy and Architecture. I've spent 10+ years owning end-to-end design across enterprise SaaS, internal tools and identity systems. At CoreLogic (now Cotality Australia) I designed a single sign-on experience that consolidated people holding separate passwords and accounts across the company's products into one secure flow, covering the entire product suite and the digital sales platform. Support tickets about multiple passwords and accounts fell steadily after launch. I also owned UX for the billing portal there, which won a 2021 Pinnacle Award.
@@ -16,3 +21,5 @@ My portfolio is at deskofcraig.com.
 
 I look forward to hearing from you,
 Craig Johnson
+
+

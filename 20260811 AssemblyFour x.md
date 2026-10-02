@@ -1,3 +1,29 @@
+---
+result: unsuccessful, no interview
+feedback: 
+```
+Thanks for the message.
+
+For this role we received over 250 applications, most of them were super strong candidates so it wasn't an easy process!
+
+Looking at your application I can absolutely give a few pointers, and sorry if this is a little too much but I'd love to be able to help for future applications.
+
+I'd highly recommend moving your portfolio to the top of your resume. I can see yours is hidden right at the bottom of your resume. All of the designers we moved forward with, had their portfolio super easy to access and was configured to demonstrate their work on the front page.
+
+Resume:
+
+Your resume doesn't 'sell' what you've achieved, rather the process you've taken - which is what every designer and therefore, all other applicants do as a given. It would be great to see achievements or outcomes of the work you've done and the impact you have had. e.g. who/what is Octopus deploy, what kind of impact did you have with the projects you delivered?
+
+I'm not 100% sure what formate your resume is in, but its super difficult to read in our system.
+
+It might help to use bullet points, it takes a bit more cognitive load to read resumes without a suggestion of where each line finishes
+
+We read every resume and cover letter, and a little note on the cover letter is it's probably a little too long. Your last paragraph should probably be your opening one as it directly ties who you are to the work A4 does. Unfortunately it is a little lost down the bottom of a very long set of paragraphs.
+
+Hope this helps for future applications and please keep connected for future roles!
+```
+---
+
 Hello Assembly Four team, 
 
 Let me introduce myself. I am a product and user experience designer named Craig from Brisbane. 
@@ -26,3 +52,5 @@ I feel very fortunate to have the opportunity to apply for a role in a company l
 
 I look forward to hearing back from you,
 Craig Johnson
+
+

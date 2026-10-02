@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 Hello to the Five Good Friends team,
 
 I am excited to apply for the Web Experience & Optimisation Lead role at Five Good Friends.  Your organisation sounds incredible and  sounds like they are helping the community in a proactive way. As someone with aging parents, knowing they have access to reliable and knowledgeable support when I am unavailable is becoming more and more important to me. 

@@ -7,3 +7,7 @@ What draws me to this specifically, beyond the design problem, is what's at the 
 I'd welcome the chance to talk through how I could help lead design on one of your squads. My portfolio is at deskofcraig.com, and I'm happy to talk more about my experience and walk through any of the above in more detail.
 I look forward to hearing from you, 
 Craig Johnson
+
+---
+result: unsuccessful, no interview
+feedback: none

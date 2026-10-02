@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 Hello Macquarie GTS Design Team 👋,
 
 I'm applying for the Senior Product Designer role on the business-to-business banking platforms. Most of the last seven years of my work has been self-service purchasing, billing and payment flows, where a business customer has to decide, pay and manage something without picking up the phone. That's what this role is about.
@@ -18,3 +23,5 @@ My portfolio is at deskofcraig.com.
 
 I look forward to hearing from you,
 Craig Johnson
+
+

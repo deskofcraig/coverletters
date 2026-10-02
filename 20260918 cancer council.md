@@ -1,3 +1,8 @@
+---
+result: 
+feedback:
+---
+
 For the People and Culture team at Cancer Council Queensland,
 
 I'm a senior product designer with over ten years across enterprise SaaS, consumer products and client consulting, and the common thread through all of it is research-led design: understanding how people actually behave before deciding what to build or fix. At Octopus Deploy I ran continuous discovery myself, organising and facilitating customer interviews and workshops rather than waiting for research to be handed to me, and used that to redevelop a self-service purchasing and subscription flow that replaced a manual, sales-rep-dependent process with something customers could complete on their own. I paired that qualitative work with quantitative tools like Amplitude and Hotjar to track how people were actually using the product, and used that combined evidence to build pitches for interface and experience improvements.
