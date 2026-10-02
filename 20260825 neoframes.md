@@ -1,3 +1,9 @@
+---
+result: 
+feedback:
+---
+
+
 To the Neoframes team.
 
 I am grateful to be able to apply for a role at Neosframe, help in your mission whilst bringing your vision and requirements to screens.
@@ -17,7 +23,3 @@ Please find my attached CV, I hope to talk to you soon about this role.
 
 Regards,
 Craig Johnson
-
----
-result: 
-feedback:

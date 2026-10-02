@@ -1,3 +1,8 @@
+---
+result: unsuccessful, no interview
+feedback: none
+---
+
 Hello to  the ProcurePro team,
 Procurement is one of those problem spaces that looks simple from the outside but is deep with rich and complex challenges underneath. I spent my first year at Octopus Deploy learning, understanding and redeveloping their self-service purchasing and subscription management portal for a highly technical enterprise DevOps product. Before then, an enterprise customer was back-and-forth with sales representatives and technical support to get the right package they required. Now it was as simple as buying a pair of shoes online. Watching your walkthrough video, that's exactly the shape of the problem ProcurePro has taken on for construction. I care about the same thing your team does, a product doesn't reach success because a screen looks clean, they succeed because the workflow underneath it lets them engage, decide, and procure with confidence instead of friction.
 At Octopus I led design end-to-end across three shipped product areas from  Self Service purchasing &  Subscription management, and Compliance & Policies. These were not as separate projects but as two pairs of joint outcomes I owned from first discovery conversation through to what actually went live. I introduced our Policies & Compliance workflows and delivered pre-runtime compliance testing before deployments, both of which measurably reduced the risk of failed deployments, and  manual back-and-forth customers dealt with if a deployment failed or broke at runtime. That's the throughline across my work: I'm not measuring success by what got designed, I'm measuring it by whether the customer on the other end could engage, troubleshoot early, and get to a reliable & confident stance  faster and with less risk than before. Before Octopus, at Cognizant and CoreLogic, the same principle applied in different flavours; self-service billing portals that removed friction from a transactional moment, design systems built so teams could ship consistent outcomes faster rather than reinvent the wheel each time, and helping teams with discovering solutions that solve real opportunities for users, communities, clients, and stakeholders. 
@@ -8,6 +13,3 @@ I'd welcome the chance to talk through how I could help lead design on one of yo
 I look forward to hearing from you, 
 Craig Johnson
 
----
-result: unsuccessful, no interview
-feedback: none
