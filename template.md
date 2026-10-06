@@ -1,5 +1,5 @@
 ---
-result:
+status:
 
 feedback:
 ---
