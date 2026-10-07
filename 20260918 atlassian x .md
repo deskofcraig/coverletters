@@ -1,8 +1,10 @@
 ---
-result: 
-feedback:
+result: unsuccessful 08 Oct 2026
+feedback: none
 ---
 
+# Cover letter:
+```
 Hello to the Atlassian team 👋
 
 I am excited to be applying for a Product Designer role at Atlassian, a true global leader and Australia success story. I have been using Atlassian products for a decade now and understand from a user, and a designer of enterprise products point of view just how complex they can be. There is a definite need for strong user experience foundations in enterprise products, that can help its community of users and customers achieve their goals successfully and without friction. A good design system can help the product succeed, a great design system can raise the bar for what other products want to be. I am extremely passionate about design systems and component libraries and their role in successful products and experiences. They help product teams deliver work that is consistent to the rest of a product and suite, as well as helps its users trust and have confidence in the product they are using. 
@@ -21,3 +23,4 @@ I look forward to discussing this opportunity further with you. I believe my exp
 
 Hopefully we talk more soon,
 Craig Johnson
+```
