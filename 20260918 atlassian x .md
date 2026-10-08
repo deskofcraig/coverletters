@@ -1,5 +1,5 @@
 ---
-result: unsuccessful 08 Oct 2026
+result: unsuccessful 08 Oct 2026, no interview
 feedback: none
 ---
 
