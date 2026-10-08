@@ -1,9 +1,7 @@
 ---
-result:
+result: applied 02 Oct 2026
 feedback:
-```
 
-```
 ---
 
 Hello to the PartsCheck team,
