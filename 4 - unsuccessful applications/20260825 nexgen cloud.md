@@ -1,5 +1,5 @@
 ---
-result: applied 27 Aug 2026
+result: applied 27 Aug 2026, moved to unsuccessful without notice 12 Oct 2026
 feedback:
 ---
 
