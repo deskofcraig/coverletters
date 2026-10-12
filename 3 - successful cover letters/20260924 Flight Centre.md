@@ -1,5 +1,5 @@
 ---
-result: 1 interview
+result: first interview on 12 Oct 2026
 feedback:
 ---
 
