@@ -3,6 +3,61 @@ result:
 feedback:
 ---
 
+# job description
+
+## What you'll do
+
+Speak with customers and internal stakeholders to understand their workflows, frustrations and unmet needs.
+
+Map workflows, user journeys, roles, permissions and system behaviours.
+
+Identify edge cases, dependencies and unanswered questions early.
+Turn incomplete ideas and rough concepts into practical product solutions.
+
+Help define feature scope and determine what belongs in an initial release versus a later iteration.
+
+Design clear, polished interfaces for complex SaaS workflows.
+
+Create greenfield experiences where established patterns do not yet exist.
+
+Improve existing workflows based on customer feedback and product usage.
+
+Work within and continuously improve our design system and component library.
+
+Use AI-assisted design, prototyping and development tools throughout your day-to-day work.
+
+Clearly communicate interaction behaviour, responsive rules, validation, states and edge cases.
+
+Partner closely with engineers throughout development rather than simply handing designs over.
+
+## What we're looking for
+
+You enjoy working at the ground floor and asking, "What could this product become?"
+
+You're likely two to four years into your product-design career and ready for meaningful ownership. You may not have seen every possible product challenge yet, but you are curious, resourceful and confident enough to work through ambiguity.
+
+You're comfortable wearing multiple hats, making decisions and moving between discovery, product thinking, interface design and implementation.
+
+## You'll ideally have:
+
+Experience designing web applications, SaaS products or workflow-based software.
+
+A portfolio showing real product workflows, not only marketing or brand work.
+
+Strong UI craft across hierarchy, layout, spacing, typography and interaction states.
+
+Experience working with design systems and reusable components.
+
+Confidence working with engineers through implementation.
+
+The ability to simplify complex problems and explain the reasoning behind your decisions.
+
+Comfort working from incomplete requirements, receiving direct feedback and iterating quickly.
+
+Experience using AI tools as a meaningful part of your workflow.
+
+
+# cover letter
 
 To the Neoframes team.
 

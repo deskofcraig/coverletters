@@ -3,6 +3,79 @@ result: unsuccessful 08 Oct 2026, no interview
 feedback: none
 ---
 
+# Job Description
+```
+About the job
+Overview
+
+Working at Atlassian
+
+Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity.
+
+Responsibilities
+
+Your Future Team
+
+You’ll join the Atlassian Design System (ADS) team, where we craft the design language that powers every Atlassian experience. In this role, you’ll bring deep visual design and systems craft to a quickly evolving, AI-native design system, ensuring our brand is expressed with coherence and finesse, for interfaces being built by humans and agents.
+
+Responsibilities
+
+
+Define and evolve the Atlassian Design Language: Evolve the visual design that makes Atlassian products feel coherent, distinctive, and high quality, including tokens, themes, interaction patterns, and components.
+Design for AI-native, adaptive interfaces: Systemise design language decisions to help people and agents generate consistent, accessible UI while preserving Atlassian’s brand expression and product clarity.
+Turn ambiguity into scalable system solutions: De-risk complex visual and systems problems through high-fidelity explorations, functional prototypes, and clear recommendations that account for edge cases, accessibility, and implementation constraints.
+Partner deeply across disciplines: Work with product design, engineering, content design, brand, and platform partners to translate emerging system concepts into practical guidance, specifications, and reusable capabilities.
+Raise the bar for craft, context, and adoption: Model strong visual systems judgment in critique, create clear usage guidance, and support product teams as they adopt new ADS capabilities with confidence and consistency.
+
+
+
+Minimum Qualifications
+
+5+ years of experience in product design, visual systems, and design systems
+Demonstrated excellence in visual design craft, including visual communication and UI design
+Hands-on experience designing and delivering design tokens, themed systems, and scalable component libraries
+Strong systems thinking with the ability to take conceptual direction and turn it into structured, well-documented, and production-ready designs
+Practical AI fluency, including frequent use of AI tools for daily exploration, prototyping, or workflow acceleration – and ability to collaborate with agents to improve design quality of agentic output
+
+
+
+Preferred Qualifications
+
+Experience designing for dynamic or AI generated user interfaces
+Experience working on complex multi-theme, enterprise systems
+A basic understanding of version control, and front end code
+Experience measuring and testing visual design changes with users
+
+
+
+Compensation
+
+At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. We follow consistent hiring practices and account for each candidate's skills, knowledge, and experience when setting base pay within the range.
+
+This role may also be eligible for benefits, bonuses, commissions, and equity.
+
+Qualifications
+
+Benefits & Perks
+
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits .
+
+About Atlassian
+
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
+
+To learn more about our culture and hiring process, visit go.atlassian.com/crh .
+
+In line with local law, identity verification (which may include use of biometric data) is a condition of employment with Atlassian for employment fraud purposes.
+
+go.atlassian.com/perksandbenefits
+go.atlassian.com/crh
+```
+
 # Cover letter:
 ```
 Hello to the Atlassian team 👋

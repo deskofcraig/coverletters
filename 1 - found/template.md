@@ -12,7 +12,7 @@ feedback:
 
 ---
 
-# Cover letter:
+# Cover letter / Application Questions:
 ```
 
 ```

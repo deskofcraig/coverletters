@@ -2,7 +2,35 @@
 result: unsuccessful, 1 interview
 feedback:
 ---
+# Job Description
 
+```
+Product Designer (3–5 yrs) to join a small, remote-first design team at a fast-growing consumer app. Mobile app design experience essential.
+
+Remote-first, flexible working around Australia
+Budget up to $150k + super
+Own end-to-end design of product features for a consumer app with hundreds of thousands of weekly users
+Our client is a consumer app helping people organise and manage everyday tasks, trusted by hundreds of thousands of users every week. They’re growing fast and building out their product team.
+
+They’re looking for a Product Designer (with 3–5 years’ experience) to join their small, remote-first design team. You’ll report to the Design Lead in Australia, work closely with their Product Manager and work on the design of product features end-to-end.
+
+What you’ll need:
+
+Solid mobile app design experience, ideally in the B2C space
+Strong visual and interaction design craft. A portfolio with actual shipped screens, not just research artefacts
+Comfort with ambiguity and fast-changing priorities in an early-stage startup
+Clear communication with both technical and non-technical stakeholders, and the ability to explain the business problem behind your design decisions, not just the output
+Curiosity about using AI in the design process: rapid prototyping, MVP exploration, research support
+The offer:
+
+Flexibility to work remotely around Australia
+Budget up to $150k + super
+A truly friendly, collaborative environment with a flat structure
+```
+
+# Cover Letter
+
+```
 Hi team
 
 I feel like I would be a great fit for the attached role looking for a product designer. 
@@ -24,3 +52,4 @@ I think these reasons show I will be ready to hit the ground running with whatev
 Look forward to talking to you soon,
 
 Craig Johnson
+```

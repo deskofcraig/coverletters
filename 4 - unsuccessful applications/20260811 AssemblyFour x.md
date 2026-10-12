@@ -23,7 +23,15 @@ We read every resume and cover letter, and a little note on the cover letter is 
 Hope this helps for future applications and please keep connected for future roles!
 ```
 ---
+# Job Description
 
+```
+
+```
+
+# Cover Letter
+
+```
 Hello Assembly Four team, 
 
 Let me introduce myself. I am a product and user experience designer named Craig from Brisbane. 
@@ -52,5 +60,5 @@ I feel very fortunate to have the opportunity to apply for a role in a company l
 
 I look forward to hearing back from you,
 Craig Johnson
-
+```
 

@@ -1,8 +1,60 @@
 ---
-result: 
+result: applied 01 Oct 2026
 feedback:
 ---
 
+# Job Description
+
+```
+Product Designer
+
+Our team sits within the Group Technology Services Strategy and Architecture function and designs the technology services our employees use every day. We create seamless experiences across identity and access, device management, workplace technology and the platforms that support how work gets done across our global organisation.
+
+We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you’re empowered to shape a career that is fulfilling and creates value. You will bring your insights and expertise to the task at hand and feel supported as you make your own kind of impact for a better future.
+
+What role will you play?
+
+In this role you will help design intuitive and consistent experiences across a range of technology products, platforms and services. You will simplify complex technical processes, create end-to-end user journeys and work closely with product owners, engineers and business stakeholders to balance customer needs, business objectives and technical requirements. GTS Design is a small team with genuine reach: the services you will work on are used by every Macquarie employee globally, and there is little distance between a design recommendation and a delivery team acting on it.
+
+What you offer
+
+3+ years of experience in user experience and user interface design, ideally across enterprise platforms, internal tools or identity and access solutions
+A portfolio demonstrating end-to-end design work, including research, recommendations and design decisions carried through to delivery
+Proficiency with Figma, design systems and AI-enabled design tools
+Experience working within cross-functional product or delivery teams across the full design lifecycle, from discovery through to delivery
+Ability to solve complex business and technology challenges through design, with a collaborative mindset and confidence presenting recommendations to senior stakeholders.
+We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
+
+What we offer
+
+At Macquarie, you’re empowered to shape a career that’s rewarding in all the ways that matter most to you. Macquarie employees can access a wide range of benefits which, depending on employment type, include:
+
+1 wellbeing leave day per year
+Up to 5 additional service bonus leave days per year
+Up to 20 weeks’ paid parental leave for primary caregivers along with 12 days of transition leave upon return to work, and 6 weeks’ paid leave for non-primary caregivers
+2 days of paid volunteer leave and donation matching
+Up to 12 months’ gender affirmation leave, including 6 weeks’ paid leave
+Access to Employee Assistance Program and wellbeing benefits including skin and health checks, and flu vaccinations
+Access to a wide range of salary packaging options
+Access to a wide range of learning and development opportunities, including reimbursement for professional membership or subscription
+Hybrid and flexible working arrangements, dependent on role
+Reimbursement for work from home equipment
+
+About Technology
+
+Technology enables every aspect of Macquarie, for our people, our customers and our communities. We’re a global team that is passionate about accelerating the digital enterprise, connecting people and data, building platforms and applications and designing tomorrow’s technology solutions.
+
+Inclusion at Macquarie
+
+We are committed to providing an inclusive environment for all, where different experiences, skills and perspectives are valued and respected. Macquarie provides access to opportunities for all individuals regardless of race, colour, religion, sex, sexual orientation, national origin, age, disability, protected veteran status, genetic information, marital status, gender identity or any other characteristic or circumstance. 
+
+We provide reasonable adjustments to individuals who may need support during the recruitment process and employment. If you require an adjustment, please let us know during the application process.
+
+```
+
+# Cover Letter
+
+```
 Hello Macquarie Hiring team,
 
 I'm applying for the Product Designer role in Group Technology Services Strategy and Architecture. I've spent 10+ years owning end-to-end design across enterprise SaaS, internal tools and identity systems. At CoreLogic (now Cotality Australia) I designed a single sign-on experience that consolidated people holding separate passwords and accounts across the company's products into one secure flow, covering the entire product suite and the digital sales platform. Support tickets about multiple passwords and accounts fell steadily after launch. I also owned UX for the billing portal there, which won a 2021 Pinnacle Award.
@@ -21,5 +73,5 @@ My portfolio is at deskofcraig.com.
 
 I look forward to hearing from you,
 Craig Johnson
-
+```
 
