@@ -1,6 +1,6 @@
 ---
 status: unsuccessful 14 Aug 2026
-applied: 11 Aog 2026
+applied: 11 Aug 2026
 1st round interview: n/a
 2nd round interview: n/a
 3rd round interview: n/a
