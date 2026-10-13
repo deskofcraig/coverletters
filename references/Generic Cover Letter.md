@@ -1,6 +1,7 @@
 ---
 Used by: Employment Hero
 Edited: 13 Oct 2026
+Goal: A cover letter that focuses on what my skills, strengths, knowledge, and experiences can bring in to any work place or product and user experience roll
 ---
 
 Hello the to hiring team 👋,
