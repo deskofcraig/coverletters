@@ -1,6 +1,11 @@
 ---
-result: applied 25 Aug 2026, moved to unsuccessful without notice 12 Oct 2026
-feedback:
+status: moved to unsuccessful without notice 12 Oct 2026
+applied: 25 Aug 2026
+1st round interview: n/a
+2nd round interview: n/a
+3rd round interview: n/a
+job offer: n/a
+feedback: n/a
 ---
 
 # job description

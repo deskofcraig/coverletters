@@ -1,8 +1,11 @@
 ---
-result:
-
-feedback:
-
+status: n/a
+applied: n/a
+1st round interview: n/a
+2nd round interview: n/a
+3rd round interview: n/a
+job offer: n/a
+feedback: n/a
 ---
 
 # Job description: 

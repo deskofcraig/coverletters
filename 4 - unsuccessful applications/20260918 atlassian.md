@@ -1,6 +1,11 @@
 ---
-result: unsuccessful 08 Oct 2026, no interview
-feedback: none
+status: unsuccessful 08 Oct 2026
+applied: 18 Sept 2026
+1st round interview: n/a
+2nd round interview: n/a
+3rd round interview: n/a
+job offer: n/a
+feedback: n/a
 ---
 
 # Job Description

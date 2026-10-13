@@ -1,11 +1,16 @@
 ---
-result: unsuccessful, no interview
-feedback: none
+status: unsuccessful 14 Aug 2026
+applied: 11 Aog 2026
+1st round interview: n/a
+2nd round interview: n/a
+3rd round interview: n/a
+job offer: n/a
+feedback: n/a
 ---
 # Job description
 
 ```
-
+forgot to record due to not having record system yet.
 ```
 
 # cover letter 
