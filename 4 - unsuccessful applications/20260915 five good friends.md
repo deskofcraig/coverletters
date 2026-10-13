@@ -1,5 +1,5 @@
 ---
-status: unknown
+status: job listing archived, voluntary moved to unsuccessful 13 Oct 2026
 applied: 15 Sept 2026
 1st round interview: n/a
 2nd round interview: n/a
