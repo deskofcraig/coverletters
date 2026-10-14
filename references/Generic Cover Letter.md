@@ -1,7 +1,7 @@
 ---
 Used by: Employment Hero
 Edited: 13 Oct 2026
-Goal: A cover letter that focuses on what my skills, strengths, knowledge, and experiences can bring in to any work place or product and user experience roll
+Goal: A generic cover letter that focuses on what my skills, strengths, knowledge, and experiences can bring in to any work place or for a product and/or user experience roll. This is help a potential employer understand and sell to them the breadth of my skill set, strengths and experience for their organisation.
 ---
 
 Hello the to hiring team 👋,
