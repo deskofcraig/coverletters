@@ -1,6 +1,6 @@
 # Cover letter reference checklist
 
-Use this whenever a job description (JD) is pasted. Built from the Oct 2026 review of the coverletters repo (2 interviews from ~30 applications) plus published benchmarks. Evidence from the repo is thin, so treat rules as working hypotheses and update them as results come in.
+Use this whenever a job description (JD) is pasted. Built from the Oct 2026 review of the coverletters repo (2 interviews from ~30 applications, updated 13 Oct 2026) plus published benchmarks. Evidence from the repo is thin, so treat rules as working hypotheses and update them as results come in.
 
 ---
 
@@ -33,7 +33,7 @@ If evidence for a requirement isn't in the profile, ask. Never stretch.
 
 ## 3. Letter blueprint
 
-**Length:** 300 to 450 words. Hard cap about 500. Roles with many explicit requirements may sit near the cap. Short can win: the Lookahead letter (short, bullet-matched) got an interview.
+**Length:** aim for 350 to 500 words, cap about 600. Length did not separate outcomes in the repo (the two interview letters were 894 and 253 words; median across 30 letters about 580), so this rule rests on recruiter feedback (Assembly Four) and published benchmarks. A longer letter works only when every paragraph answers a JD requirement.
 
 **Salutation and sign-off:** "For [Name] and the [Company] team," (find the hiring manager's name if findable; otherwise "For the [Company] team,"). Close with "I look forward to hearing from you," then Craig Johnson. No "Regards" or "Kind regards". The 👋 greeting only for tech and design-systems employers.
 
@@ -95,7 +95,7 @@ The recent letters share stock sentences. Recruiters at one employer (e.g. three
 - [ ] Hard requirements answered in the JD's order, using its keywords
 - [ ] Any gap named honestly in one sentence
 - [ ] Logistics line only if asked for
-- [ ] 300 to 450 words (cap ~500)
+- [ ] 350 to 500 words (cap ~600)
 - [ ] No em dashes. No banned words or phrases from the de-AI list. No "it's not X, it's Y". No forced lists of three.
 - [ ] Sentence lengths varied
 - [ ] At most one everyday analogy
@@ -110,18 +110,21 @@ Answer separately from the letter using STAR (Situation 20%, Task 10%, Action 60
 
 ## 8. After sending
 
-- Save the letter with status and date in the frontmatter.
-- Update the result and any feedback when it arrives.
+- Save the letter in the repo with the standard frontmatter: status, applied, 1st/2nd/3rd round interview, job offer, feedback. Use one date format (for example 13 Oct 2026) and check the dates run in order.
+- Update the result and any feedback when it arrives. Treat "moved to unsuccessful without notice" (5 - voluntary unsuccessful) as silence, not a verdict.
+- A rejection within 3 days (ProcurePro, Macquarie Risk) points to an early CV or ATS filter. Check the CV before changing the letter.
 - When a result changes, review which rules above it supports or contradicts, and update this file and the cover-letter-writer skill.
 
 ## 9. Evidence gaps that would strengthen future letters
 
 Needed from Craig, not yet on record:
 
-- Number of customer interviews or workshop sessions behind the Octopus self-service work, and the size of the closed user test group
-- A metric for Octopus Policies (time to correct a failure, adoption, ticket volume)
-- A metric for the CoreLogic single sign-on (ticket reduction) and billing portal (adoption, support load)
-- A metric for Amber Labs work
-- One example of changing a roadmap or scope decision (cutting, delaying, or reshaping a feature)
-- Count of designers mentored and a visible result from it
-- Which case studies on deskofcraig.com best match each role type, so letters can name them
+- **Sample sizes** for the Octopus self-service work (how many customer interviews, how many people in the closed user test group) and the CoreLogic A/B tests (how many users or sessions per variant)
+- Numbers for the CoreLogic single sign-on (support tickets before and after), billing portals (CoreLogic, Amber, Octopus), Octopus Policies (time to correct a failed deployment, adoption), and Amber Labs
+- One decision story for influence: what was cut or deferred from the first Professional release, how it was prioritised, who decided, what changed (use the decision story format in star-method.md)
+- The fifth design system (four named: Octopus, CoreLogic marketing, CoreLogic product, Healius)
+- What each count in the CV Metrics block refers to
+- Mentoring headcounts (topics are on record: Figma features, design systems, documentation standards, accessibility, design thinking, gap analysis, at CoreLogic, Cognizant and Octopus)
+- Which portfolio case studies match each role type (none are NDA)
+
+Resolved 13 Oct 2026 and no longer needed: 2016 to 2019 employer detail, Swyftx title and dates, Amber Labs end date (February 2021).

@@ -1,9 +1,5 @@
 ---
 name: star-method
-description: Claude uses these descriptions when deciding which skills to use in chat.
----
----
-name: star-method
 description: Turns a job requirement, selection criterion, or screening question into a short evidence story using the STAR method (Situation, Task, Action, Result), built only from real experience in the user's profile or memory. Called by cover-letter-writer when mapping requirements to examples, and usable alone for application questions and interview prep. Asks for missing numbers, methods and samples instead of inventing them. Tells the user when this skill itself should be rewritten.
 ---
 
@@ -20,7 +16,7 @@ Build one honest, specific evidence story per requirement. Output is prose that 
 
 1. The requirement or question, copied exactly from the job description or form.
 2. The role type and seniority band.
-3. The evidence bank: the user's profile reference file and memory (Octopus Deploy, Cognizant, CoreLogic, Amber Labs, Swyftx, earlier career, personal projects).
+3. The evidence bank: the user's profile reference file and memory (Octopus Deploy, Cognizant, CoreLogic, Amber Labs, earlier career, personal projects). Swyftx is mention-only: refer to the work and that he worked there when relevant, never as a full entry.
 4. Any word limit.
 
 If the evidence bank cannot be read, say so and ask for the relevant facts.
@@ -53,7 +49,7 @@ Before writing, confirm the story has each of these. Mark what is missing.
 - Situation: employer, product, user, what was broken
 - Task: what the user personally owned
 - Action: at least three concrete steps the user took (use "I")
-- Method and sample: interviews, tests, users, sessions, tools
+- Method and sample: the method (interviews, workshops, A/B test, usability test) and the sample size (how many people, sessions or users took part), plus the tools used
 - Result: a number, or a named outcome if no number exists
 - Honest caveat where a number looks small
 - Influence or decision (senior roles)
@@ -80,6 +76,19 @@ Condensing for a cover letter: merge Situation and Task into one sentence, spend
 | Bullet-style match (short letters) | 1 to 2 lines per requirement | Requirement keyword, proof, number |
 | Selection criterion or screening answer | 150 to 300 words, or the stated limit | Flowing prose, STAR order, no labels |
 | Interview talking points | Short bullets | S, T, A, R lines plus a likely follow-up question |
+| Decision or scope story (influence on what got built) | 90 to 130 words | Context, options considered, the decision and who made it, the trade-off accepted, the result |
+
+### Decision and scope story format
+
+Use this for the "influence and judgement" type, and for senior and product owner roles. It is STAR with the decision made visible.
+
+1. **Context (1 to 2 sentences):** the product, the goal, the constraint (time, engineering capacity, risk).
+2. **Options (1 to 2 sentences):** two or three real options that were on the table, including the one the team first wanted.
+3. **Decision (2 sentences):** what was chosen, who made the call, and the evidence used (interviews, data, sales input).
+4. **Trade-off (1 sentence):** what was cut or deferred, and why that was acceptable.
+5. **Result (1 sentence):** what changed, with a number if one exists, and the honest caveat if it is small.
+
+Rules: name the person or group who made the final call. Show what was given up, since a story with no cost is not a decision. Do not invent options that were not considered.
 
 ## Step 6: Voice and anti-AI pass
 
