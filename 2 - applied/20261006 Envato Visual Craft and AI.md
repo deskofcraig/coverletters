@@ -1,6 +1,6 @@
 ---
-status: n/a
-applied: n/a
+status: unknown
+applied: 14 Oct 2026
 1st round interview: n/a
 2nd round interview: n/a
 3rd round interview: n/a
@@ -77,6 +77,63 @@ We may use artificial intelligence (AI) tools to support parts of the hiring pro
 ```
 ---
 
-# Cover letter:
+# Cover letter / Application questions:
+
 ```
+Please let us know why you've applied to Envato!
+- I love that Envato supports and encourages creatives building assets to help make other creative’s lives easier. Whether it is tutorials, templates, stock resources, or beyond, Envato is there to help cater the needs and requests of its community of users. When I look at Envato, I see a dedicated team looking to enrich and empower the lives of creatives on both the production and usage of assets. Both sides have their goals and build connections though a common resource. I would love to become a part of the mission and story at Envato as a product designer. I can bring 10 years experience as a product and experience designer across e-commerce, payment gateways, mobile applications and enterprise SaaS. I am extremely proficient at design tools such as Figma, Dovetail, Amplitude, Miro, Claude, and other related products. I love working in collaborative product teams with engineers and product owners, but can also work individually to help drive outcomes and uncover deeper opportunities for product and feature improvement. I would love to bring my experience, strengths, and skill set to Envato to help you drive your mission and empower your community further. 
+
+
+Do you need any adjustments throughout our recruitment process? (Reasonable adjustments may include: longer time on take home tasks, providing some interview questions in advance, turning on closed captions)
+- If possible, interview questions and/or the current trajectory and journey product teams are currently on please and thank you.
+
+
+Where are you located?
+- Brisbane, QLD Australia
+
+Are you eligible to work in Australia or New Zealand?✱
+
+[x] Yes, I am an Australian or New Zealand Citizen / Permanent Resident
+[ ] I’m on a Visa
+[ ] I do not hold working rights & require sponsorship
+
+
+If you are on a visa, please provide further details
+
+- N/A
+
+
+When are you available to start?✱
+
+- I am available immediately
+
+
+Do you have recent experience working in a digital product business or marketplace business?✱
+
+[x] yes
+[ ] no
+
+
+Share one piece of your best visual work, the piece that makes you proud and best shows your visual craft✱
+- references/Selected visual work.pdf
+
+About the piece you have shared. Add a brief explainer , why you picked this? What details you sweated?✱
+- I have selected two pieces to show case. 1 digital, and 1 physical. 
+
+- The digital is a functional calculator I built in Figma that runs as a prototype. I use the classic Canon LS-82Z as my interface inspiration. This was all manually designed, and prototype functions are hand coded to function. This was a learning exercise and experiment when Figma released their customisable prototype parameters and functions. I made sure the interface matched the key elements as close as possible with layering and blend different shadows, whilst making sure that the input feedback was still 100% recognisable to the user. Please give it a go. 
+
+- The physical piece is a resin miniature I painted for a competition. I choose this piece to show that my passion for visual work extends beyond digital screens and so does my attention to detail. This piece is roughing 10cm high for the base to emphasise the density of detail. Through this work I worked with colour theory, blocking, gradient management or to make sure the individual areas were separated from their neighbouring parts, while making sure I was directing the eye to areas of focus. 
+
+
+Share something you have built with AI, a small app that solves a problem you have all the way up to a product feature and anything in between✱
+- references/Candor app.pdf
+
+About what you have created using AI. Add a brief explainer, what is it and what tools did you use?
+
+- I wanted to explore the job hunting experience from the applicant and recruiter view points while looking at how to reduce the friction, pain points and frustration from all parties. 
+
+- I came up with "Candor" a platform for recruiters to post job listings and understand the candidates quickly and for the applicant to understand if unsuccessful, why? This is the bigger pain point when no feedback or evidence is given by recruiters. This platform helps give metrics and evidence against other candidates and the job description to deliver feedback and guidance for candidates in the future.
+
+- I built this by writing a PRD to help guide Figma Make in delivering a prototype and proof of concept. 
+
 ```
