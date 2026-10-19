@@ -1,6 +1,12 @@
 ---
-result: first interview on 12 Oct 2026, awaiting feedback
-feedback: none at this time
+status: unknown
+applied: 24 Sept 2026
+1st round interview: 12 Oct 2026
+2nd round interview: n/a
+3rd round interview: n/a
+job offer: n/a
+unsuccessful:
+feedback: n/a
 ---
 
 # Job description:

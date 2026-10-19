@@ -5,6 +5,7 @@ applied: 08 Oct 2026
 2nd round interview: n/a
 3rd round interview: n/a
 job offer: n/a
+unsuccessful: 
 feedback: n/a
 ---
 

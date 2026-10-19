@@ -1,10 +1,11 @@
 ---
 status: unknown
-applied: n/a
+applied: 19 Oct 2026
 1st round interview: n/a
 2nd round interview: n/a
 3rd round interview: n/a
 job offer: n/a
+unsuccessful: 
 feedback: n/a
 ---
 
@@ -80,5 +81,10 @@ We may use artificial intelligence (AI) tools to support parts of the hiring pro
 
 # Cover letter / Application Questions:
 ```
+Question
+Briefly describe why this job is a top choice and why you're good fit" for the attached job description?
+
+Answer
+This role fits the work I do best: design systems, Figma and clean handoff across enterprise products. I’ve built or managed five design systems, most recently with Octopus Deploy’s Foundations team across Figma, Supernova and Storybook, and I hold handovers to WCAG AA. Multi-brand work interests me because consistency has to scale. I have working knowledge of HTML and CSS.
 
 ```

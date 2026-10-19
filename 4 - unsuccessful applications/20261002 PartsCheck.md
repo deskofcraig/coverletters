@@ -1,11 +1,12 @@
 ---
-status: unknown
+status: unsuccessful 19 Oct 2026
 applied: 02 Oct 2026
 1st round interview: n/a
 2nd round interview: n/a
 3rd round interview: n/a
 job offer: n/a
-feedback: n/a
+unsuccessful: 19 Oct 2026
+feedback: 19 Oct 2026 - reached out to Aju mathew for feedback - https://www.linkedin.com/in/aju-mathew-9467798/
 
 ---
 # Job description
