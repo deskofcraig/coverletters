@@ -14,6 +14,8 @@ feedback: n/a
 ```
 https://www.linkedin.com/jobs/view/4480928703/
 
+https://jobs.ashbyhq.com/bjakcareer/45a9a9d3-ae35-493d-a1e0-7984aa21c028
+
 UI Designer - AI Neobank App
 
 About the job
