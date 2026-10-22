@@ -6,7 +6,7 @@ applied: 02 Oct 2026
 3rd round interview: n/a
 job offer: n/a
 unsuccessful: 19 Oct 2026
-feedback: 19 Oct 2026 - reached out to Aju mathew for feedback - https://www.linkedin.com/in/aju-mathew-9467798/
+feedback: 19 Oct 2026 - reached out to Aju mathew for feedback - https://www.linkedin.com/in/aju-mathew-9467798/, Aju replied 22 Oct 2026
 
 ---
 # Job description
@@ -97,3 +97,11 @@ I look forward to hearing from you,
 Craig Johnson
 ```
 
+Feedback
+```
+Hey Craig,
+The application and background looked fairly good. I've spent a little time at Corelogic as well so I would have poked some of the leaders there.
+Unfortunately, I am just about make an offer so didn't want to lead any one on. If i were earlier in the process, you would have got an initial call to discuss the role.
+
+Best of luck on the hunt.
+```

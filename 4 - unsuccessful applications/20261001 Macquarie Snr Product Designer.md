@@ -5,7 +5,7 @@ applied: 01 Oct 2026
 2nd round interview: n/a
 3rd round interview: n/a
 job offer: n/a
-unsuccessful: 
+unsuccessful: 22 Oct 2026
 feedback: n/a
 ---
 # Job description
@@ -87,3 +87,22 @@ I look forward to hearing from you,
 Craig Johnson
 ```
 
+# Unsuccessful email 
+
+```
+Update on your application for Senior Product Designer, 19642 | Macquarie Group
+
+An update on your application
+
+Hi Craig,
+
+Thank you for your application for Senior Product Designer (Job ID 19642) and the time and effort you’ve committed to this process. We’ve received several strong applications and after careful consideration, we will not be progressing your application for this role.
+
+At Macquarie, we believe in empowering people to create new possibilities. Please continue to search our open roles for future opportunities with us.
+
+You can also keep in touch with us by following us on LinkedIn, Instagram, and Facebook. 
+
+Kind regards,
+Kate Alouker
+Macquarie Recruitment Team
+```

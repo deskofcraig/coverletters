@@ -1,6 +1,6 @@
 ---
 status: unknown
-applied: n/a
+applied: 20 Oct 2026
 1st round interview: n/a
 2nd round interview: n/a
 3rd round interview: n/a
@@ -150,5 +150,35 @@ Do you have experience using Webflow?
 
 # Cover letter / Application Questions:
 ```
+Hello the xrecruiter team,
 
+I’m applying for the Senior Designer, Webflow Developer role with 10 years experience as an experience and product designer across responsive web, mobile apps, and products from B2C consumer focus to B2B SaaS enterprise and government service design. You describe the website as the point where a recruiter’s plan becomes a publicly visible company, and I’ve done that job before: at Amber Labs I designed and built the original marketing and public website in Webflow for a bitcoin onramp start-up. My portfolio is at deskofcraig.com. I have been looking into this space myself currently on how to help both talent acquisition and job seekers. I can show a demo on request.
+
+At Amber it was one person from blank sitemap to live site, which is how you describe this role. I mapped the sitemap and user journeys, designed the page interactions, set up the sales funnels and tracking, and wrote the branding guidelines the pages followed. People were being asked to trust a new product with real money, so the site had to look and read as credible on day one.
+
+In my interface and web design work by following WCAG best practices and guidelines to maintain high standards of accessibility. I maintain ties with with are the goals at user and business are trying to achieve when visiting a site or using a product through user journey maps, scenarios, personas, and human-centred design fundamentals.
+
+Conversion work followed me to CoreLogic (now Cotality Australia). I was seconded into marketing for the Australian website redesign, where I did the journey mapping, wireframes and Figma prototypes, then built a design system the marketing designers kept following after I left. It was delivered ahead of schedule. On the e-store, I A/B tested new purchase flows from Hotjar data and customer feedback, and each funnel segment improved 15 to 20% over four weeks.
+
+On the build side, I read and write HTML and CSS, work in JavaScript and jQuery, and built React components with front-end engineers at Octopus Deploy across Figma, Supernova and Storybook. I’ve also worked with CMS backends and portals that pass data between APIs at Amber, Octopus and CoreLogic, and at Cognizant. I built live sites by hand from 2013 to 2019 before moving into product design. I have also built and maintain basic CMS platforms in the past.
+
+Partners need someone who explains the direction and gets sign-off at each phase. At Cognizant I ran client workshops, wrote Statements of Work and presented recommendations to senior leaders. At Octopus I ran subscription management, payment gateway improvements, purchase flow optimisation and account portal alignment at the same time, each with an owner and a next step. I’ve also guided junior and senior designers, which fits your mentoring line.
+
+I look forward to hearing from you,
+Craig Johnson
 ```
+
+
+Have you built or shipped anything in Webflow, even a personal or portfolio site? What was it and what did you do?
+- At Amber, I built and designed their original marketing and public facing website using Webflow. I create sitemap, user journeys, and interactions, sales funnels and tracking and branding guidelines during this process.
+
+Have you built any live websites yourself end to end (HTML, CSS, JavaScript), and where can they be seen?
+- I have previous from 2013 to 2019 but these sites are no longer active, but examples can be given on request. I am proficient and fluent with reading, coding and building with HTML, CSS as well as can work with React, Javascript and jQuery.
+
+Any API integration or custom code you’ve written yourself, beyond component work with engineers?
+- I have worked with CMS backends and portals which connect the APIs. Bringing information and data back and forth between the too. This type of work has been done at Amber, Octopus Deploy and Corelogic directly with additional work at Cognizant. 
+
+Is the Teneriffe location workable for you, or does the role allow remote from Australia?
+- I can work from Teneriffe, QLD
+
+What would you put for expected salary and years as a front end developer on the form? I’d leave the second one honest.
